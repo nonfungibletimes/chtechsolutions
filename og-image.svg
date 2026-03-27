@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A1628"/>
+      <stop offset="100%" style="stop-color:#0f2040"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF"/>
+      <stop offset="100%" style="stop-color:#14B8A6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Grid lines (subtle) -->
+  <line x1="0" y1="210" x2="1200" y2="210" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="0" y1="420" x2="1200" y2="420" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="400" y1="0" x2="400" y2="630" stroke="#ffffff08" stroke-width="1"/>
+  <line x1="800" y1="0" x2="800" y2="630" stroke="#ffffff08" stroke-width="1"/>
+
+  <!-- Accent bar top -->
+  <rect x="80" y="60" width="120" height="5" rx="3" fill="url(#accent)"/>
+
+  <!-- Logo mark -->
+  <rect x="80" y="85" width="64" height="64" rx="14" fill="#0A1628" stroke="#00D9FF" stroke-width="2"/>
+  <text x="112" y="134" font-family="Arial Black, Arial, sans-serif" font-size="36" font-weight="900" text-anchor="middle" fill="#00D9FF">C</text>
+
+  <!-- Brand name -->
+  <text x="160" y="107" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff" letter-spacing="2">CH TECH SOLUTIONS</text>
+  <text x="160" y="133" font-family="Arial, sans-serif" font-size="14" fill="#00D9FF" letter-spacing="1">A CH TECH VENTURES COMPANY</text>
+
+  <!-- Main headline -->
+  <text x="80" y="280" font-family="Arial Black, Arial, sans-serif" font-size="62" font-weight="900" fill="#ffffff">Websites. Automation.</text>
+  <text x="80" y="360" font-family="Arial Black, Arial, sans-serif" font-size="62" font-weight="900" fill="url(#accent)">AI Systems.</text>
+
+  <!-- Subtext -->
+  <text x="80" y="430" font-family="Arial, sans-serif" font-size="24" fill="#ffffffaa">Done for you. Built to run your business 24/7.</text>
+
+  <!-- Service pills -->
+  <rect x="80" y="500" width="180" height="40" rx="20" fill="#ffffff12" stroke="#00D9FF44" stroke-width="1"/>
+  <text x="170" y="525" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ffffffcc">Websites &amp; SEO</text>
+
+  <rect x="272" y="500" width="190" height="40" rx="20" fill="#ffffff12" stroke="#00D9FF44" stroke-width="1"/>
+  <text x="367" y="525" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ffffffcc">GHL Automation</text>
+
+  <rect x="474" y="500" width="180" height="40" rx="20" fill="#ffffff12" stroke="#00D9FF44" stroke-width="1"/>
+  <text x="564" y="525" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ffffffcc">AI Employees</text>
+
+  <rect x="666" y="500" width="200" height="40" rx="20" fill="#ffffff12" stroke="#00D9FF44" stroke-width="1"/>
+  <text x="766" y="525" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#ffffffcc">AI Consulting</text>
+
+  <!-- Right side: CTA -->
+  <rect x="920" y="240" width="220" height="60" rx="12" fill="url(#accent)"/>
+  <text x="1030" y="278" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#0A1628">Book a Free Call</text>
+
+  <text x="1030" y="360" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#ffffff66">Lafayette, LA</text>
+  <text x="1030" y="385" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#ffffff66">Serving businesses nationwide</text>
+</svg>
