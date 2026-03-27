@@ -1,0 +1,29 @@
+# CH Tech Solutions — llms.txt
+
+> CH Tech Solutions is a done-for-you AI services agency, a division of CH Tech Ventures LLC. We help local businesses and SMBs in the Lafayette, Louisiana area implement AI automation, voice agents, and website optimization.
+
+## Services
+
+- **AI Employee Setup**: Custom AI agents that handle customer service, scheduling, and admin tasks 24/7.
+- **AI Voice Agents**: Phone-answering AI that books appointments, answers FAQs, and never misses a call.
+- **OpenClaw / NemoClaw Setup**: Personal AI assistants that manage your operations, content, and communications.
+- **GHL Automation**: GoHighLevel pipeline and workflow automation for leads, follow-ups, and client management.
+- **AI Website Optimization (GEO)**: Websites optimized for Google AND AI assistants (ChatGPT, Claude, Gemini).
+
+## About
+
+CH Tech Solutions is the implementation arm of CH Tech Ventures LLC. We build production-grade AI systems for businesses — tested, monitored, and built to run 24/7. Our team combines deep AI expertise with real-world operational discipline.
+
+## Contact
+
+- Website: https://chtechsolutions.vercel.app
+- Book a strategy call: https://api.leadconnectorhq.com/widget/bookings/chelsea-ai-strategy-call
+
+## Portfolio
+
+- **GeauxFind**: AI-curated local discovery platform for Lafayette, Louisiana.
+- **Cadegent**: AI-powered content operations platform.
+
+## Location
+
+Lafayette, Louisiana, USA
